@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ingresoEgresoApp"
+  "defaultProject": "ingresoEgresoApp",
+  "cli": {
+    "analytics": "88320158-bd8a-44fb-a726-d79238a22105"
+  }
 }
